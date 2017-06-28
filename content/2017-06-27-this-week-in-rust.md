@@ -147,6 +147,7 @@ decision. Express your opinions now. [This week's FCPs][fcp] are:
 * [Allow a break not only out of `loop`, but of labelled blocks with no loop](https://github.com/rust-lang/rfcs/pull/2046).
 * [Extend Rust target specification to follow more closely LLVM triple specification](https://github.com/rust-lang/rfcs/pull/2048).
 * [Zero-Sized References](https://github.com/rust-lang/rfcs/pull/2040).
+* [`target_feature`, a necessary step towards SIMD on stable Rust](https://github.com/rust-lang/rfcs/pull/2045).
 
 ## Style RFCs
 
